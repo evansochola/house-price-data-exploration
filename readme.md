@@ -1,1 +1,3 @@
-Basic Data Summaries and Visualizations: House Price Data
+# Basic Data Summaries and Visualizations: House Price Data
+
+HousePrices.csv contains a sample of house prices for a major US metropolitan area. In particular, it shows a house's ID, its selling price (in US$), its size (square feet), the number of bedrooms and bathrooms, the number of offers it has received while being on the market,whether or not it has brick walls, and the neighbourhood where it is located. One of the main goals of this analysis is to determine what drives the price of a house. We are going to perform data exploration to better understand our data and get intimately familiar with it.
